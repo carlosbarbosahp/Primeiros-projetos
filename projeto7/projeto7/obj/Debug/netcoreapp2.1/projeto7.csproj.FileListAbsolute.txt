@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\bin\Debug\netcoreapp2.1\projeto7.deps.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\bin\Debug\netcoreapp2.1\projeto7.runtimeconfig.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\bin\Debug\netcoreapp2.1\projeto7.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\bin\Debug\netcoreapp2.1\projeto7.dll
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\bin\Debug\netcoreapp2.1\projeto7.pdb
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.dll
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.pdb
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto7\projeto7\obj\Debug\netcoreapp2.1\projeto7.genruntimeconfig.cache

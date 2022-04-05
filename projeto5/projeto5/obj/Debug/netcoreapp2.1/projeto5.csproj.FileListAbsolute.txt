@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\bin\Debug\netcoreapp2.1\projeto5.deps.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\bin\Debug\netcoreapp2.1\projeto5.runtimeconfig.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\bin\Debug\netcoreapp2.1\projeto5.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\bin\Debug\netcoreapp2.1\projeto5.dll
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\bin\Debug\netcoreapp2.1\projeto5.pdb
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.dll
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.pdb
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto5\projeto5\obj\Debug\netcoreapp2.1\projeto5.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto6\projeto6\obj\Debug\netcoreapp2.1\projeto6.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto6\projeto6\obj\Debug\netcoreapp2.1\projeto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto6\projeto6\obj\Debug\netcoreapp2.1\projeto6.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto6\projeto6\obj\Debug\netcoreapp2.1\projeto6.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Material c-sharp\Curso\projeto6\projeto6\obj\Debug\netcoreapp2.1\projeto6.csproj.CoreCompileInputs.cache
